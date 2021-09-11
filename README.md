@@ -116,7 +116,6 @@ promedio_final = (prom_laboratorio_1 + prom_laboratorio_2 + prom_laboratorio_3)/
 
 ### Repaso de conceptos
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 ### Listas
