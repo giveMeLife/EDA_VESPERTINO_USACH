@@ -6,12 +6,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/giveMeLife/EDA_VESPERTINO_USACH">
+    <img src="algorithm.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Estructura de datos y análisis ed algoritmos</h3>
-  <h4 align="center">Vespertino</h4>
+  <h2 align="center">Estructura de datos y análisis de algoritmos Vespertino</h2>
   <p align="center">
     Repositorio con el material que se trabajará en el clase a clase del laboratorio de la asignatura EDA de la Universidad de Santiago de Chile en modalidad vespertino.
   </p>
