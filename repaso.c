@@ -68,7 +68,7 @@ int main() {
     Paso por valor y paso por referencia
     */
 
-    /*
+    /*    
     int n;
     printf("Ingrese un número: ");
     scanf("%d",&n );
@@ -76,28 +76,32 @@ int main() {
     printf("El número es: %d\n", a);
     sumatoria2(&n, 4);
     printf("El nuevo valor es: %d\n", n);
-    */
+    /*
 
     /*
     Arreglos y punteros
     */
-    /*
+    /*   
     int tamano;
     printf("ingrese tamaño del arreglo: ");
     scanf("%d", &tamano);
-    int * arreglo = (int*)malloc(sizeof(int)*tamano);
+    */
+    /*int * arreglo = (int*)malloc(sizeof(int)*tamano);
     rellenarArreglo(tamano, arreglo);
     imprimirArreglo(tamano, arreglo);
-
+    */
+    
+    /*
     int arreglo2[tamano];
     rellenarArreglo(tamano, arreglo2);
     imprimirArreglo(tamano, arreglo2);
-
-    int ** arreglobidimensional = (int**)malloc(sizeof(int*)*3);
-    rellenarArregloBidimensional(tamano, 3, arreglobidimensional);
-    imprimirArregloBidimensional(tamano, 3, arreglobidimensional);
     */
 
+    /*
+    int ** arreglobidimensional = (int**)malloc(sizeof(int*)*4);
+    rellenarArregloBidimensional(4, 3, arreglobidimensional);
+    imprimirArregloBidimensional(4, 3, arreglobidimensional);
+    */
     /*Strings y caracteres*/
     /*
     char nombre[5] = "Juan";
@@ -109,15 +113,14 @@ int main() {
     */
 
     /*Estructuras*/
-    /*
+    
     Persona p;
     strcpy(p.nombre, "Juan");
     strcpy(p.apellido, "Fernandez");
     p.edad = 23;
     p.estatura = 1.74;
-    
 
     printf("Nombre: %s\n Apellido: %s\n Edad: %d\n Estatura: %f\n", p.nombre, p.apellido, p.edad, p.estatura); 
-    */
+    
     return 0;
 }
